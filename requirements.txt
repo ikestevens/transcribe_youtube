@@ -1,0 +1,4 @@
+tqdm
+yt-dlp
+pydub
+whisper
